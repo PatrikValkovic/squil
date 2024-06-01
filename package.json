@@ -1,0 +1,22 @@
+{
+  "name": "squil",
+  "version": "0.0.0",
+  "description": "WIP package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrikValkovic/squil.git"
+  },
+  "keywords": [
+    "sql"
+  ],
+  "author": "Patrik Valkovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrikValkovic/squil/issues"
+  },
+  "homepage": "https://github.com/PatrikValkovic/squil#readme"
+}
